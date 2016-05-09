@@ -4,7 +4,7 @@ Scripts to create the Ordernator database objects and data.
 
 ### Instructions
 
-1. Create an RDS MySQL instance with the name `ordernate`.
+1. Create an RDS MySQL instance with the name `ordernator`.
 2. Connect to it with the Workbench or the command-line.
 3. Load and run the `ordernator.sql` file.
 4. Load and run the `load_data.sql` file.
